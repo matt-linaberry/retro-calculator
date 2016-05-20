@@ -13,6 +13,7 @@
 		522DA4BF1CB83FF400DD0E98 /* retro_calculator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 522DA4BD1CB83FF400DD0E98 /* retro_calculator.xcdatamodeld */; };
 		522DA4C11CB83FF400DD0E98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 522DA4C01CB83FF400DD0E98 /* Assets.xcassets */; };
 		522DA4C41CB83FF400DD0E98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 522DA4C21CB83FF400DD0E98 /* LaunchScreen.storyboard */; };
+		523F47C51CEFAAA600DFB82A /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 523F47C41CEFAAA600DFB82A /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		522DA4C01CB83FF400DD0E98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		522DA4C31CB83FF400DD0E98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		522DA4C51CB83FF400DD0E98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		523F47C41CEFAAA600DFB82A /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		522DA4B51CB83FF400DD0E98 /* retro-calculator */ = {
 			isa = PBXGroup;
 			children = (
+				523F47C41CEFAAA600DFB82A /* Minecraft.ttf */,
 				522DA4B61CB83FF400DD0E98 /* AppDelegate.swift */,
 				522DA4B81CB83FF400DD0E98 /* ViewController.swift */,
 				522DA4BA1CB83FF400DD0E98 /* Main.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				522DA4C41CB83FF400DD0E98 /* LaunchScreen.storyboard in Resources */,
 				522DA4C11CB83FF400DD0E98 /* Assets.xcassets in Resources */,
+				523F47C51CEFAAA600DFB82A /* Minecraft.ttf in Resources */,
 				522DA4BC1CB83FF400DD0E98 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -292,6 +296,7 @@
 				522DA4CA1CB83FF400DD0E98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
